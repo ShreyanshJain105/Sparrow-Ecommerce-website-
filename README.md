@@ -31,4 +31,5 @@ Backend support for product management and order processing.
 Contact
 For any questions or feedback, feel free to reach out:
 
-Your Name: shreyanshjainwork12@gmail.com
+Your Name:Shreyansh Jain
+Mail-id: shreyanshjainwork12@gmail.com
